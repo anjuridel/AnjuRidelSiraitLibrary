@@ -6,9 +6,10 @@ import android.widget.Toast;
 public class Kirim {
     Context context;
     String pesan;
-    public KirimPesan() {
+
+    public Kirim(){
     }
-    public KirimPesan(Context context, String pesan) {
+    public Kirim(Context context, String pesan) {
         this.context = context;
         this.pesan = pesan;
     }
