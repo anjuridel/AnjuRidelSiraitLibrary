@@ -1,9 +1,9 @@
-package com.example.anjuridelsiraitlibrary.Kirim;
+package com.example.anjuridelsiraitlibrary;
 
 import android.content.Context;
 import android.widget.Toast;
 
-public class Class {
+public class Kirim {
     Context context;
     String pesan;
     public KirimPesan() {

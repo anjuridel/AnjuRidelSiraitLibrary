@@ -1,4 +1,4 @@
-package com.example.anjuridelsiraitlibrary.Kirim;
+package com.example.anjuridelsiraitlibrary;
 
 public class Matematika {
     private double bil1;
